@@ -3,3 +3,4 @@ streamlit
 pandas==2.0.2
 scikit-learn
 pip==23.0.1
+nltk==3.8.1
