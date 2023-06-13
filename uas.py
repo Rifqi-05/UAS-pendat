@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 from sklearn.preprocessing import StandardScaler
-from streamlit-option-menu import option-menu
+from streamlit_option_menu import option_menu
 
 #navigasi sidebar
 # horizontal menu
